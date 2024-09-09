@@ -1,5 +1,5 @@
 # AWS SERVICE IMPLEMENTATION REPORT
-         
+           
 Date: September 15, 2024
  
 Company: Lecter Industries
