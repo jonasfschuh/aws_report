@@ -2,7 +2,7 @@
 
 Data: 15 de setembro de 2024
 
-Empresa: Lecter Industries 
+Empresa: Lecter Industries  
 
 Contexto: Lecter Industries possui uma matriz e duas filiais. Esse projeto demonstra a utilização dos serviços iniciais da Amazon Web Services utilizar para interligar a rede e rodas os aplicativos de toda empresa.
 Responsável: Jonas Fernando Schuh
