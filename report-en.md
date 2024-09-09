@@ -101,4 +101,5 @@ Financial Comparison Conclusion:
 
 This plan should provide an efficient, secure and lower-cost infrastructure for Lecter Industries.
 
-
+Signature of the Project Manager: 
+Jonas Fernando Schuh
