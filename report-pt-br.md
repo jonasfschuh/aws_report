@@ -1,5 +1,5 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS 
- 
+   
 Data: 15 de setembro de 2024
  
 Empresa: Lecter Industries     
