@@ -6,7 +6,7 @@ Empresa: Lecter Industries
 
 Contexto: Lecter Industries possui uma matriz e duas filiais. Esse projeto demonstra a utilização dos serviços iniciais da Amazon Web Services utilizar para interligar a rede e rodas os aplicativos de toda empresa.
 Responsável: Jonas Fernando Schuh
-
+   
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Lecter Industries, realizado por Jonas Fernando Schuh. 
 O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
