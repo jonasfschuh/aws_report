@@ -1,7 +1,7 @@
 # AWS SERVICE IMPLEMENTATION REPORT
 
 Date: September 15, 2024
-
+ 
 Company: Lecter Industries
  
 Context: Lecter Industries has a head office and two branches. 
