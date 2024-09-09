@@ -3,7 +3,7 @@
 Date: September 15, 2024
 
 Company: Lecter Industries
-
+ 
 Context: Lecter Industries has a head office and two branches. 
 This project demonstrates the use of the initial services of Amazon Web Services to interconnect the network and run the applications of the entire company.
 
