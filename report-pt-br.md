@@ -11,7 +11,7 @@ Responsável: Jonas Fernando Schuh
 Este relatório apresenta o processo de implementação de ferramentas na empresa Lecter Industries, realizado por Jonas Fernando Schuh. 
 O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
-## Descrição do Projeto
+## Descrição do Projeto 
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: Configuração de Rede com AWS Virtual Private Cloud (VPC)
