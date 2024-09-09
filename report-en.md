@@ -4,9 +4,8 @@ Date: September 15, 2024
 
 Company: Lecter Industries
 
-Context: I have a company called Lecter Industries, which has a head office and two branches.
-
-If you want to use Amazon Web Services, you can use them to connect the network and run the applications of the entire company.
+Context: Lecter Industries has a head office and two branches. 
+This project demonstrates the use of the initial services of Amazon Web Services to interconnect the network and run the applications of the entire company.
 
 Responsible: Jonas Fernando Schuh
 
