@@ -36,12 +36,12 @@ Etapa 3: Hospedagem de Aplicativos com AWS Elastic Beanstalk
 A implementação de ferramentas na empresa Lecter Industries tem como esperado benefícios dessa ferramentas, o que aumentará a eficiência e a produtividade da empresa. 
 Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
-# Benefícios Resumidos das Ferramentas:
+### Benefícios Resumidos das Ferramentas:
 AWS VPC: Garante uma rede segura e personalizada, interligando matriz e filiais de forma eficiente e escalável.
 AWS IAM: Oferece controle granular de acesso, garantindo que apenas usuários autorizados acessem recursos específicos, melhorando a segurança.
 AWS Elastic Beanstalk: Simplifica o gerenciamento de aplicativos, reduzindo a necessidade de operações manuais e permitindo rápida adaptação a mudanças de demanda.
 
-# Comparativo de Redução nos Custos Financeiros:
+### Comparativo de Redução nos Custos Financeiros:
 Redução de Infraestrutura Local: A utilização da AWS elimina a necessidade de servidores físicos e infraestrutura de rede local complexa, reduzindo significativamente os custos de manutenção, eletricidade e espaço físico.
 Escalabilidade Sob Demanda: As ferramentas da AWS permitem escalar recursos automaticamente conforme a necessidade, evitando gastos com capacidade ociosa.
 Menor Custo Operacional: Automação e gerenciamento centralizado diminuem a necessidade de grandes equipes de TI para monitoramento e manutenção, reduzindo custos com pessoal.
